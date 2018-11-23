@@ -5,3 +5,4 @@ My stupid boss still prefers SVN.
 push master to github origin
 clone file from github origin
 root add code
+Creating a new branch is quick
