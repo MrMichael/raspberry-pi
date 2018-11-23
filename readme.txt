@@ -8,4 +8,5 @@ root add code
 Creating a new branch is quick
 master add code
 dev add code
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+it ok
