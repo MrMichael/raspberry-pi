@@ -10,8 +10,4 @@ master add code
 dev add code
 Creating a new branch is quick and simple.
 dev add second
-<<<<<<< HEAD
-dev does some change 
-=======
 github do some changes
->>>>>>> 82184002f820836c183948c6f6e33ff98ac1c963
